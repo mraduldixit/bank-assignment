@@ -1,0 +1,9 @@
+html,
+body {
+  width: 97vw;
+  height: 97vh;
+  background-image: url("../images/money2.gif");
+  margin: 0;
+  padding: 0;
+  /* <iframe src="https://giphy.com/embed/BfFFYPSVYr9UR6EtEL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cash-finance-dollars-BfFFYPSVYr9UR6EtEL">via GIPHY</a></p> */
+}
